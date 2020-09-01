@@ -1,0 +1,80 @@
+.Weather li {
+    list-style: none;
+  }
+  .Weather ul {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 40px;
+  }
+  .Weather h1 {
+    padding-top: 20px;
+    font-family: "Caveat";
+    font-weight: bolder;
+    color: #45a7ca;
+    font-size: 2.5rem;
+    line-height: 1.2;
+  }
+  
+  .Weather ul {
+    color: white;
+    font-family: "Overpass", sans-serif;
+    font-size: 24px;
+  }
+  .Weather{
+    background: pink;
+    max-width: 700px;
+    margin: 0 auto;
+    background: pink;
+    margin-top: 30px;
+    padding: 10px;
+      
+  }
+  .Searchbox {
+    float: right;
+    margin: 10px 5px 20px 0;
+  }
+  input {
+    background-color: #fffbfa;
+    border-radius: 4px;
+    border: none;
+  }
+  #Submitbutton {
+    font-family: "Caveat";
+    text-align: center;
+    color: white;
+    background: #45a7ca;
+    margin-left: 5px;
+  }
+  .Currentweather li {
+    list-style: none;
+  }
+  .Currentweather ul {
+    padding: 0;
+    margin: 0;
+    font-size: 8pt;
+    font-family: "Overpass", sans-serif;
+    color: white;
+  }
+  #Currenttemp {
+    color: white;
+    font-size: 40pt;
+    font-family: "Overpass", sans-serif;
+  }
+  #Degrees {
+    color: white;
+    padding-left: 10px;
+  }
+  #Weathersaying {
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    font-family: "Caveat";
+    text-transform: capitalize;
+  }
+  ::placeholder {
+    font-family: "Caveat";
+    text-align: center;
+    color: #45a7ca;
+  }
+  
