@@ -6,12 +6,12 @@ input {
 .Weather li {
     list-style: none;
   }
-  .Weather ul {
+.Weather ul {
     padding: 0;
     margin: 0;
     margin-bottom: 40px;
   }
-  .Weather h1 {
+.Weather h1 {
     padding-top: 20px;
     font-family: "Caveat";
     font-weight: bolder;
@@ -20,12 +20,12 @@ input {
     line-height: 1.2;
   }
   
-  .Weather ul {
+.Weather ul {
     color: white;
     font-family: "Overpass", sans-serif;
     font-size: 24px;
   }
-  .Weather{
+.Weather{
     /* max-width: 700px; */
     background: pink;
     margin-top: 30px;
@@ -33,38 +33,38 @@ input {
   }
 
   
-  .searchBox {
+.searchBox {
     float: right;
     margin: 10px 5px 20px 0;
   }
  
-  .submitButton {
+.submitButton {
     font-family: "Caveat";
     text-align: center;
     color: white;
     background: #45a7ca;
     margin-left: 5px;
   }
-  .currentWeather li {
+.currentWeather li {
     list-style: none;
   }
-  .currentWeather ul {
+.currentWeather ul {
     padding: 0;
     margin: 0;
     font-size: 8pt;
     font-family: "Overpass", sans-serif;
     color: white;
   }
-  .currentTemp {
+.currentTemp {
     color: white;
     font-size: 40pt;
     font-family: "Overpass", sans-serif;
   }
-  .degrees {
+.degrees {
     color: white;
     padding-left: 10px;
   }
-  .weatherSaying {
+.weatherSaying {
     color: white;
     font-weight: 700;
     font-size: 30px;
@@ -72,7 +72,7 @@ input {
     font-family: "Caveat";
     text-transform: capitalize;
   }
-  ::placeholder {
+::placeholder {
     font-family: "Caveat";
     text-align: center;
     color: #45a7ca;
